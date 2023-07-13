@@ -2,8 +2,8 @@ package gobard
 
 import (
 	"log"
-	"github.com/Allan-Nava/go-bard/configuration"
-	"github.com/Allan-Nava/go-bard/constants"
+	"github.com/chmeee/go-bard/configuration"
+	"github.com/chmeee/go-bard/constants"
 	"github.com/go-resty/resty/v2"
 )
 

@@ -1,7 +1,7 @@
 package configuration
 
 import (
-	"github.com/Allan-Nava/go-bard/constants"
+	"github.com/chmeee/go-bard/constants"
 	"github.com/caarlos0/env/v6"
 )
 
