@@ -1,4 +1,4 @@
-module github.com/Allan-Nava/go-bard
+module github.com/chmeee/go-bard
 
 go 1.18
 
