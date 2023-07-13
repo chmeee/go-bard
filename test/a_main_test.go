@@ -4,9 +4,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Allan-Nava/go-bard/configuration"
-	"github.com/Allan-Nava/go-bard/env"
-	"github.com/Allan-Nava/go-bard/gobard"
+	"github.com/chmeee/go-bard/configuration"
+	"github.com/chmeee/go-bard/env"
+	"github.com/chmeee/go-bard/gobard"
 )
 
 func TestMain(m *testing.M) {
